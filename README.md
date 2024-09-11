@@ -21,4 +21,8 @@ typescript
     /* tanstackquery kullanabilmek için main içerisinde oluşturup app bileşenini sarmalıyoruz. */
 - react-toastify
 - @uidotdev/usehooks
-- xss# ShoesProjectWithTanstack
+- xss
+-
+  # ShoesProjectWithTanstack
+  ![Zight Recording 2024-09-11 at 03 48 40 PM](https://github.com/user-attachments/assets/946e113c-9d41-4cd8-b4af-8623498cdc59)
+
